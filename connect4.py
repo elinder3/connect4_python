@@ -194,4 +194,4 @@ print ("</table>")
 print ("</form >")
 
 print ("<center> <a href='.'>Restart with new players</a> </center> ") 
-print("<br><br><img src="mega.jpg" alt="YOU DARE CHALLEGE MEGAMIND" height="700">")
+print("<br><br><img src="mega.png" alt="YOU DARE CHALLEGE MEGAMIND" height="700">")
